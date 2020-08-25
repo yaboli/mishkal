@@ -11,8 +11,9 @@ tmp/*
 /support/yaraspell/txt2
 /tools/txt
 /interfaces/web/resources/templates/main.2.html
-/
 build/
 dist/
 mishkal.egg-info/
 mypythonenv/
+.idea/
+*.iml
